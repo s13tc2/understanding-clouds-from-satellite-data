@@ -7,9 +7,8 @@ Notebooks:
   - Cloud Bounding Boxes
   - Train With Crops
 
-## Goal
+## To-do
 
-Objective:
-  - Convert notebooks from Tensorflow/Keras to PyTorch
+- Convert notebooks from Tensorflow/Keras to PyTorch
 
 The original notebooks were written in Tensorflow/Keras by author Chris Deotte.
