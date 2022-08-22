@@ -1,4 +1,4 @@
-# understanding-clouds-from-satellite-images
+# Understanding Clouds from Satellite Images
 
 A collection of notebooks from the Kaggle Comp - Understanding Clouds from Satellite Images
 
